@@ -120,10 +120,9 @@ It also bridges my background in **QA engineering** with modern **AI evaluation 
 
 ## 📬 Contact
 **Zalina Yusop**  
-Princeton, TX  
+Dallas, TX  
 GitHub: https://github.com/zalenagit  
-LinkedIn: (add your link)  
-Email: (add your email)
+Email: noryuszalinamyusop@gmail.com
 
 ---
 
